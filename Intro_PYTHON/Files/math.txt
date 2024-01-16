@@ -1,0 +1,8 @@
+Alice , 70
+Musyoka, 90
+Evans, 76
+Abishang, 68
+Mueni, 89
+Dustin, 76
+Jenifer, 100
+Thomas, 77
